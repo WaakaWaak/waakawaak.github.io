@@ -1,0 +1,30 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+#headline {
+    background-color: rgb(48, 220, 246);
+    background: local;
+    padding: 2px;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 40px;
+    font-size: 30px;
+
+}
+
+#mainsec {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 5px;
+    /* background-color: rgb(48, 220, 246); */
+}
+
+#mainImg1 {
+    width: 80%;
+}
+
+.text1 {
+    font-size: 16px;
+}
